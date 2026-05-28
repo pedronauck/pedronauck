@@ -1,4 +1,4 @@
-# hi, I'm Pedro 👋
+# hi, I'm Pedro Nauck 👋
 
 > 🤖 Building harness for AI.
 
