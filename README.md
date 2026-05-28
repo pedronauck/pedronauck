@@ -78,3 +78,4 @@ The core thesis: AI agents are powerful but unreliable on their own. They need a
 ---
 
 <sub>📍 San Francisco · 🇧🇷 → 🇺🇸 · Coffee-powered · Always shipping</sub>
+
