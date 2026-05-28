@@ -4,7 +4,7 @@
 
 I'm a software engineer based in **San Francisco**, founder of [Compozy](https://compozy.com) — where we're building the orchestration layer that takes AI coding agents from *idea* to *shipped code* in a single pipeline.
 
-Before AI ate everything, I spent a decade shipping open-source developer tools — **[Docz](https://github.com/doczjs/docz)** (23.6k+ ⭐), **[react-adopt](https://github.com/pedronauck/react-adopt)** (1.6k+ ⭐), **[reworm](https://github.com/pedronauck/reworm)** (1.4k+ ⭐), and a long tail of React, JS, and tooling libraries. Today, most of my work lives at the intersection of **agents, local-first runtimes, and developer experience**.
+Before AI ate everything, I spent a decade shipping open-source developer tools — **[Docz](https://github.com/doczjs/docz)** (23.6k+ ⭐), **[react-adopt](https://github.com/pedronauck/react-adopt)** (1.6k+ ⭐), **[reworm](https://github.com/pedronauck/reworm)** (1.4k+ ⭐), and a long tail of React, JS, and tooling libraries. I've also shipped **Rust systems work** — notably contributing to **[FuelLabs/data-systems](https://github.com/FuelLabs/data-systems)**, the official data-streaming libraries for the Fuel Network. Today, most of my work lives at the intersection of **agents, local-first runtimes, and developer experience**.
 
 ---
 
@@ -45,7 +45,6 @@ The core thesis: AI agents are powerful but unreliable on their own. They need a
 | --- | --- |
 | 🎼 **[compozy](https://github.com/compozy/compozy)** | CLI that drives the full lifecycle of AI-assisted dev — PRDs → specs → tasks → concurrent execution → code review remediation. *(Go, 2.2k+ ⭐)* |
 | 🏢 **[agh](https://github.com/compozy/agh)** | An open workplace for AI agents. Runs Claude Code, Codex, OpenClaw and friends as durable, inspectable sessions with peer-to-peer capability sharing over the open `agh-network/v0` protocol. *(Go)* |
-| 🦀 **[openfang](https://github.com/compozy/openfang)** | Open-source Agent Operating System. *(Rust)* |
 | 🧠 **[go-orchestrator](https://github.com/compozy/go-orchestrator)** | Next-level agentic orchestration framework. *(Go)* |
 | 🌉 **[arky](https://github.com/compozy/arky)** | LLM providers bridge and SDK in Rust. *(Rust)* |
 
@@ -79,7 +78,6 @@ The core thesis: AI agents are powerful but unreliable on their own. They need a
 | 🧩 **[skills](https://github.com/pedronauck/skills)** | 126 curated agent skills across original work, hand-picked community gems, marketing playbooks, and broader dev tooling. *(375+ ⭐)* |
 | 🪜 **[devstack](https://github.com/pedronauck/devstack)** | Full-stack scaffold generator — Bun + Turborepo + React 19 + Hono + Drizzle + Postgres in minutes, not days. *(TS)* |
 | 🪜 **[go-devstack](https://github.com/pedronauck/go-devstack)** | Same idea, Go edition. |
-| 🍎 **[compozy-skills](https://github.com/pedronauck/compozy-skills)** | Base skills used across Compozy projects. |
 
 ---
 
