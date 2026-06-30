@@ -2,7 +2,7 @@
 
 > 🤖 Building harness for AI.
 
-I'm a software engineer based in **San Francisco**, founder of [Compozy](https://compozy.com) — where we're building the orchestration layer that takes AI coding agents from *idea* to *shipped code* in a single pipeline.
+I'm a software engineer based in **Florianópolis**, founder of [Compozy](https://compozy.com) — where we're building the orchestration layer that takes AI coding agents from *idea* to *shipped code* in a single pipeline.
 
 Before AI ate everything, I spent a decade shipping open-source developer tools — **[Docz](https://github.com/doczjs/docz)** (23.6k+ ⭐), **[react-adopt](https://github.com/pedronauck/react-adopt)** (1.6k+ ⭐), **[reworm](https://github.com/pedronauck/reworm)** (1.4k+ ⭐), and a long tail of React, JS, and tooling libraries. I've also shipped **Rust systems work** — notably contributing to **[FuelLabs/data-systems](https://github.com/FuelLabs/data-systems)**, the official data-streaming libraries for the Fuel Network. Today, most of my work lives at the intersection of **agents, local-first runtimes, and developer experience**.
 
